@@ -24,3 +24,6 @@ Core Idea of Project is to build an sample prototype E-Commerce Website with FAQ
 Azure Bot Service, QnA Maker, Static Web Apps
 
 Other Azure Technologies : App Service
+
+
+![image](https://user-images.githubusercontent.com/91518028/171718050-55328133-dae1-437f-b22b-92e7729ba629.png)
